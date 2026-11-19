@@ -30,7 +30,7 @@ The framework automates API validation for user authentication and work creation
 
 ## 4. Framework Structure
 
-text
+```text
 assignment-3/
 ├── configuration/
 │   └── configs.properties.example
@@ -46,7 +46,7 @@ assignment-3/
 │               ├── TC_API_Login.java
 │               └── TC_API_CreateWork.java
 └── pom.xml
-
+```
 
 ## 5. Test Implementation
 
