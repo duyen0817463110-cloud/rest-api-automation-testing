@@ -1,0 +1,14 @@
+<suite name="Suite">
+<test name="login">
+<classes>
+<class name="com.api.auto.testcase.TC_API_Login"/>
+</classes>
+</test>
+<test name="creatework">
+<classes>
+<class name="com.api.auto.testcase.TC_API_CreateWork"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-18T16:41:13 GMT+07:00" name="Default suite" finished-at="2024-12-18T16:41:15 GMT+07:00" duration-ms="2123">
+    <groups>
+    </groups>
+    <test started-at="2024-12-18T16:41:13 GMT+07:00" name="Default test" finished-at="2024-12-18T16:41:15 GMT+07:00" duration-ms="2123">
+      <class name="com.api.auto.testcase.TC_API_Login">
+        <test-method is-config="true" signature="unit()[pri:0, instance:com.api.auto.testcase.TC_API_Login@484970b0]" started-at="2024-12-18T16:41:13 GMT+07:00" name="unit" finished-at="2024-12-18T16:41:15 GMT+07:00" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unit -->
+        <test-method signature="TC02_ValidateMessage()[pri:1, instance:com.api.auto.testcase.TC_API_Login@484970b0]" started-at="2024-12-18T16:41:15 GMT+07:00" name="TC02_ValidateMessage" finished-at="2024-12-18T16:41:15 GMT+07:00" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_ValidateMessage -->
+      </class> <!-- com.api.auto.testcase.TC_API_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
